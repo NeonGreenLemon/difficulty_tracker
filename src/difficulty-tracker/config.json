@@ -1,0 +1,10 @@
+{
+  "show_tooltip": true,
+  "tag_name": "dif_",
+  "max_difficulty": 10,
+  "only_leech": true,
+  "only_leech_tag_name": "leech",
+  "increase_only_on_review": true,
+  "good_reset_all": false,
+  "again_is_good": false
+}
