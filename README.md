@@ -4,7 +4,7 @@
 Keep track of your cards difficulty without the need to set flags
 
 ### Installation
-Go to AnkiWeb and install with installcode in Anki
+Go to [AnkiWeb](https://ankiweb.net/shared/info/1646158061) and install with installcode in Anki
 
 1. Open Anki
 2. Tools > Add-ons
